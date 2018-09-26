@@ -13,6 +13,6 @@ Use the created component
 
 ![Component pic](https://github.com/delalama/ReactAxios/blob/master/reactAxiosPics/3.png)
 
-Simple as it seems
+Simple as it looks
 
 ![Result pic](https://github.com/delalama/ReactAxios/blob/master/reactAxiosPics/1.png)
