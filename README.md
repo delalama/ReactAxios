@@ -11,7 +11,7 @@ The nomenclature is as simple as possible.
 
 Instead of the boring and confusing way to declare components in Angular( version 5 is what i remember ) 
 
-![Component pic](https://github.com/delalama/ReactAxios/blob/master/reactAxiosPics/2.png
+![Component pic](https://github.com/delalama/ReactAxios/blob/master/reactAxiosPics/2.png)
 
 
 ![Result pic](https://github.com/delalama/ReactAxios/blob/master/reactAxiosPics/1.png)
