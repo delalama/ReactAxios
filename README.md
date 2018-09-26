@@ -5,13 +5,14 @@ I wanted to have some knowledge about react library and its way to treat http re
 
 The first library to do http requests i found is Axios.
 
-The nomenclature is as simple as possible.
+The nomenclature is as simple as possible, look at componentDidMount function.
 
 ![Axios pic](https://github.com/delalama/ReactAxios/blob/master/reactAxiosPics/2.png)
 
-Instead of the boring and confusing way to declare components in Angular( version 5 is what i remember ) 
+Use the created component
 
 ![Component pic](https://github.com/delalama/ReactAxios/blob/master/reactAxiosPics/3.png)
 
+Simple as it seems
 
 ![Result pic](https://github.com/delalama/ReactAxios/blob/master/reactAxiosPics/1.png)
